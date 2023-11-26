@@ -1,0 +1,3 @@
+C:\Users\김혜린\Desktop\cube_car\Debug\cube.exe
+C:\Users\CAU\Desktop\color_cat\Debug\cube.exe
+C:\Users\CAU\Desktop\cg\color_cat\Debug\cube.exe
